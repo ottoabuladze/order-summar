@@ -1,0 +1,107 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 28px ;
+    line-height:37px;
+    color: #1F2E55;
+    text-align: center;
+    margin-top: 45px;
+}
+.main{
+    width: 450px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.second{
+    padding-left: 48px;
+    padding-right: 48px;
+}
+body{
+}
+.text{
+    font-weight:500 ;
+    font-size: 16px;
+    line-height:26px ;
+    color: #717FA6;
+    text-align:center;
+    margin-top:17px;
+    
+}
+.otto{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.musicdiv{ 
+    display: flex;
+    align-items: center;
+}
+.sri{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.jaba{
+width: 52px;
+height: 19px;
+color: #382AE1;
+font-weight: 700;
+size: 14px;
+line-height: 18.52px;
+text-decoration: underline;
+
+
+}
+.jaba:hover{
+    color: #766CF1;
+}
+.babi{
+    width: 117.19px;
+    height: 21px;
+    color: #1F2E55;
+}
+.ana{
+    width: 92px;
+    height: 21px;
+    color: #717FA6;
+}
+.payment{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+    background-color: #382AE1;
+    display: flex;
+    justify-content: center;
+    border-radius: 11px;
+    margin-top: 32px;
+}
+.payment:hover{
+    background-color: #766CF1; 
+}
+
+.cancel{
+    color: #717FA6;
+    font-weight: 900;
+    font-size: 15px;
+line-height: 19.85px;
+text-align: center;
+margin-top: 32px;
+    
+}
+.cancel:hover{
+    color:#1F2E55;
+}
+.kod{
+    font-weight: 900;
+    font-size:15px ;
+    line-height: 19.85px;
+    color: #FFFFFF;
+}
